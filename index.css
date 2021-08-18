@@ -32,3 +32,11 @@ li, a {
 .nav-pills > li:hover {
     background-color: #c74350;
 }
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
+}
